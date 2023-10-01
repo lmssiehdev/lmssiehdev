@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**lmssiehdev/lmssiehdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a Web Developer with a keen interest in UI/UX design, dedicated to crafting top-notch websites and applications. 💻✨  
+  
+  [Twitter](https://twitter.com/lmssiehdev) — [Portfolio](https://lmssieh.com)
 
-Here are some ideas to get you started:
+- 🔭 Building [redoit.app](https://redoit.app)—a habit tracker with passion!
+- 🧐 Interested in everything Typescript
+- 🌱 Currently learning Golang
+- ❤️ Open Source Software
+- 💬 Feel free to connect with me on Twitter anytime! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👷 My latest projects
+
+ - [libre-reads](https://github.com/lmssiehdev/librereads) a privacy-respecting alternative front-end for Goodreads.
+ - [vue-context-hook](https://github.com/lmssiehdev/vue-context-hook) useContext-like API for Vue.
+
+🐓
